@@ -1,2 +1,2 @@
 # web_hoang_nghia
-bai tap lon cua Hoang va Nghia
+this is a project web design using HTML, CSS, JavaScript to make. 
